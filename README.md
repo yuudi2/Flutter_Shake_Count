@@ -1,6 +1,7 @@
 # flutter_shake_count
 
-A new Flutter project.
+splash, 라이브러리 사용 (velocity_x, shake) 
+
 
 ## Getting Started
 
